@@ -30,7 +30,7 @@ dependencies:
   flutter:
     sdk: flutter
   touch_mouse_behavior:
-    path: ../../touch_mouse_behavior
+    path: ../
 
 
   # The following adds the Cupertino Icons font to your application.

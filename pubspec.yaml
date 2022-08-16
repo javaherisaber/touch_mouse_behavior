@@ -1,6 +1,6 @@
 name: touch_mouse_behavior
 description: Scroll behavior to support both Touch and Mouse for web in scrollable widgets.
-version: 0.0.2
+version: 1.0.0
 homepage: https://github.com/javaherisaber/touch_mouse_behavior
 
 environment:
@@ -14,4 +14,4 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  flutter_lints: ^1.0.0
+  flutter_lints: ^2.0.1
