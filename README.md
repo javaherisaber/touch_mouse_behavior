@@ -1,7 +1,7 @@
 # touch_mouse_behavior
 [![pub package](https://img.shields.io/pub/v/touch_mouse_behavior.svg)](https://pub.dartlang.org/packages/touch_mouse_behavior)
 
-Scroll behavior to support both Touch and Mouse in web in scrollable widgets.
+Scroll behavior to support both Touch and Mouse in web and desktop (Windows, Macos, Linux) for scrollable widgets.
 
 ## Usage
 

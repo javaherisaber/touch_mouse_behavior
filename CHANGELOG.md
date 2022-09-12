@@ -1,3 +1,6 @@
+## 1.0.1
+- Update README.md to mention support for Desktop (Windows, Macos, Linux)
+
 ## 1.0.0
 - Fix example dependency path on touch_mouse_behavior
 

@@ -1,6 +1,6 @@
 name: touch_mouse_behavior
-description: Scroll behavior to support both Touch and Mouse for web in scrollable widgets.
-version: 1.0.0
+description: Scroll behavior to support both Touch and Mouse in web and desktop (Windows, Macos, Linux) for scrollable widgets.
+version: 1.0.1
 homepage: https://github.com/javaherisaber/touch_mouse_behavior
 
 environment:
